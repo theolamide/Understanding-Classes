@@ -34,7 +34,7 @@ namespace UnderstandingClasses
         {
             decimal carValue;
             if (Year > 1990)
-                carValue = 159000; //This is hard coded and \
+                carValue = 159000; 
             else
                 carValue = 2000;
 
